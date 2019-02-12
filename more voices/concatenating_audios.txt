@@ -1,0 +1,5 @@
+## concatenating .mp3's seem to work on fly
+#https://stackoverflow.com/questions/35825680/concatenate-audio-files-python-2-7#35827788
+
+
+cat a.mp3 allo.mp3 >aallo.mp3
